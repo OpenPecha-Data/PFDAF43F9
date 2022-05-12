@@ -59,3 +59,8 @@ source_metadata:
       parent: Tārā
 created_at: '2022-03-01T05:40:37.295691'
 last_modified_at: '2022-03-01T05:40:37.295694'
+statistics:
+  total_words: 19400
+  total_non_words: 2456
+quality:
+  non_words_ratio: 0.13
